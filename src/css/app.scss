@@ -1,0 +1,12 @@
+// app global css in SCSS form
+.bg-grad {
+  background: linear-gradient(
+    180deg,
+    rgba(166, 101, 254, 0.85) 27.6%,
+    rgba(33, 227, 216, 0.35) 83.85%
+  );
+}
+
+.round-corners {
+  border-radius: 36px;
+}
